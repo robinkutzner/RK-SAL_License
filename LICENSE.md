@@ -1,5 +1,5 @@
 **SPDX-License-Identifier:** LicenseRef-RK-SAL-1.0<br>
-**Copyright © 2026 Robin Kutzner**
+**Copyright © 2026 [insert your name here]**
 
 ---
 
