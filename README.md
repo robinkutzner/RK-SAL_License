@@ -13,7 +13,7 @@
 
 ## How to use
 1. Copy `LICENSE.md` into your project.
-2. Add SPDX headers from `headers/` to your source files (recommended).
+2. Add SPDX headers from `headers/header.txt` to your source files (recommended).
 3. Add the license badge to your README (see `examples/badge.md`).
 
 ## Commercial licensing
