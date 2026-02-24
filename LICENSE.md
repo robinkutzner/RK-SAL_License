@@ -16,7 +16,7 @@ For the purposes of this License:
 
 * **"Software"** means the source code, binaries, and any associated files, documentation, or materials distributed under this License.
 
-* **"Author"** means Robin Kutzner.
+* **"Author"** means [insert your name here].
 
 * **"Commercial Use"** means any use of the Software intended for commercial advantage, monetary compensation, business purposes, or use within a product or service that is sold, licensed, leased, or otherwise monetized.
 
