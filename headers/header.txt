@@ -1,0 +1,2 @@
+#  SPDX-License-Identifier: LicenseRef-RK-SAL-1.0
+#  Copyright © 2026 Robin Kutzner
